@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">备忘录App</string>
+    <string-array name="memo_categories">
+        <item>日常</item>
+        <item>娱乐</item>
+        <item>学习</item>
+        <item>考试</item>
+    </string-array>
+
+    <string name="confirm_delete">确认删除</string>
+
+    <string name="edit_memo">编辑备忘录</string>
+    <string name="add_memo">添加备忘录</string>
+    <string name="search_memo">查询备忘录</string>
+    <string name="count_memo">统计备忘录</string>
+    <string name="title_empty_error">标题不能为空</string>
+    <string name="add_success">备忘录添加成功</string>
+    <string name="add_failure">添加失败，请重试</string>
+    <string name="edit_success">备忘录编辑成功</string>
+    <string name="edit_failure">编辑失败，请重试</string>
+    <string name="search_no_result">未找到相关备忘录</string>
+    <string name="memo_count">备忘录总数：%1$d</string>
+</resources>
